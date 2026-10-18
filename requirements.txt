@@ -1,0 +1,10 @@
+torch
+numpy
+gymnasium[atari,accept-rom-license]
+ale-py
+opencv-python
+imageio
+imageio-ffmpeg
+wandb
+matplotlib
+pandas
